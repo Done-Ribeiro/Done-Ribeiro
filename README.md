@@ -1,16 +1,14 @@
-### Hi there 👋
+# Done Ribeiro 🚀
 
-<!--
-**Done-Ribeiro/Done-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey! ☕ Welcome to my profile!
 
-Here are some ideas to get you started:
+I'm fullstack developer (Intern) and UI/UX enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 💻 Front-end: Angular 8+
+ - 💿 Back-end: Java 8 with Spring Boot
+ - 📊 Others skills: Figma (UI), PowerBi (BI) 
+ 
+ ##### 😏 In my spare time, read books and take courses in my area
+
+[![Linkedin Badge](https://img.shields.io/badge/-Done%20Ribeiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/done-ribeiro-8b244314b/)](https://www.linkedin.com/in/done-ribeiro-8b244314b/)
+[![Gmail Badge](https://img.shields.io/badge/-www.done__@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:www.done_@hotmail.com)](mailto:www.done_@hotmail.com)
